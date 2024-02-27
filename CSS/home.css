@@ -1,0 +1,57 @@
+body {
+    background-color: lightcyan;
+}
+#min {
+    text-align: right;
+    margin-top: 30px;
+    word-spacing: 10px;
+    margin-right: 170px;
+    text-decoration: none;
+a {
+    text-decoration: none;
+}
+}
+.mine {
+    width: 100px;
+    padding-left: 60px;
+    margin-bottom: 0px;
+}
+.container {
+    position: absolute;
+    width: 70%;
+    left: 15%;
+    top: 10%;
+    font-size: larger;
+    padding-top: 60px;
+}
+.best {
+    width: 400px;
+    float: left;
+    border-radius: 50px;
+    margin-right: 60px;
+}
+.history {
+    margin-top: 600px;
+    position: absolute;
+    width: 70%;
+    left: 15%;
+    top: 20%;
+    font-size: larger;
+    border: solid;
+    border-radius: 30px;
+    border-right: 5px;
+    border-left: 5px;
+}
+.column {
+    float: left;
+    width: 40%;
+}
+.copyright {
+    background-color: blueviolet;
+    margin-top: 1130px;
+    height: 50px;
+    width: 1500px;
+    text-align: center;
+    color: white;
+    font-weight: 200px;
+}

@@ -1,0 +1,106 @@
+body {
+    background-color: lightcyan;
+}
+#min {
+    text-align: right;
+    margin-top: 30px;
+    word-spacing: 10px;
+    margin-right: 170px;
+    text-decoration: none;
+a {
+    text-decoration: none;
+}
+}
+.contect{
+    position: absolute;
+    width: 70%;
+    right: 15%;
+    top: 10%;
+    font-size: larger;
+    padding-top: 100px;
+}
+.dtech{
+    margin-left: 5px;
+    margin-right: 40px;
+    margin-bottom: 140px;
+    width: 400px;
+    height: 400px;
+    image-resolution: cover;
+    float: left;
+    border-radius: 10px;
+}
+.text {
+    font-size: large;
+    padding-right: 40px;
+    padding-top: 140x;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    word-spacing: 10px;
+}
+.text span {
+    background-color: yellow;
+}
+.mission {
+    font-size:larger ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 300px;
+    text-align: center;
+}
+#tit {
+    background-color: yellowgreen;
+    border-radius: 30px;
+    margin-bottom: 15px;
+    text-align: left;
+}
+.dap {
+    width: 200px;
+    border-radius: 50px;
+}
+.title {
+    font-size: xx-large;
+    padding-right: 40px;
+    padding-top: 150px;
+    font-family: 'Times New Roman', Times, serif;
+    word-spacing: 10px;
+    margin-left: 500px;
+}
+.services {
+    margin-top: 1200px;
+    position: absolute;
+    top: 20%;
+    font-size: larger;  
+    margin-left: 20px;
+    border: solid; border-color: aquamarine; background-image: url('../images/Females\ in\ tech.jpg'); background-size:cover; border-radius: 30px;
+    isolation: isolate;
+    font-size: x-large;
+}
+.services::after {
+    content: '';
+    position: absolute;
+    z-index: -1;
+    inset: 0;
+    background: aqua;
+    opacity: .5;
+    border-radius: 30px;
+}
+.serve {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    color: black;
+    background-color: yellow;
+    border-radius: 10px;
+}
+.daphine {
+    float: left;
+    width: 40%;
+    padding-left: 20px;
+    padding-right: 40px;
+}
+.copyright {
+    background-color: blueviolet;
+    margin-top: 700px;
+    height: 50px;
+    width: 1500px;
+    text-align: center;
+    color: white;
+    font-weight: 200px;
+}

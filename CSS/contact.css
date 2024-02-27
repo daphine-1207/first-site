@@ -1,0 +1,64 @@
+body {
+    background-color: lightcyan;
+}
+#Website {
+    text-align: right;
+    margin-top: 70px;
+    word-spacing: 10px;
+    margin-right: 170px;
+    text-decoration: none;
+a {
+    text-decoration: none;
+}
+}
+.logo {
+    width: 150px;
+    margin-left: 550px;
+}
+.hope {
+    margin-top: 10px;
+    position: absolute;
+    width: 100%;
+    left: 30%;
+    font-size: larger;  
+    border: black;
+    border-radius: 40px;
+    box-shadow: 2px 8px 8px;
+    border-radius: 8px;
+    width: 500px;
+    background-color: white;
+}
+.tret {
+    background-color: green;
+    color: white;
+    border: none;
+    height: 30px;
+    width: 150px;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+    position: absolute;
+    left: 46%;
+    margin-top: 450px;
+}
+.tret:hover {
+opacity:0.8;
+box-shadow: 5px 5px 10px black;
+}
+.tret:active {
+opacity: 0.4;
+}
+.in4o {
+    margin-top: 500px;
+    margin-left: 350px;
+    color: blue;
+}
+.copyright {
+    background-color: blueviolet;
+    margin-top: 40px;
+    height: 50px;
+    width: 1500px;
+    text-align: center;
+    color: white;
+    font-weight: 200px;
+}
